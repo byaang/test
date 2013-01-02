@@ -1,5 +1,5 @@
 <?php
 
-echo 'it is testysd';
+echo 'it is test';
 
 ?>
